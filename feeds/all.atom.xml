@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>resume</title><link href="/resume/" rel="alternate"></link><link href="/resume/feeds/all.atom.xml" rel="self"></link><id>/resume/</id><updated>2025-03-06T12:00:00-06:00</updated><entry><title>My resume</title><link href="/resume/my-resume.html" rel="alternate"></link><published>2025-03-06T12:00:00-06:00</published><updated>2025-03-06T12:00:00-06:00</updated><author><name>Zheng Ren</name></author><id>tag:None,2025-03-06:/resume/my-resume.html</id><summary type="html">&lt;h1&gt;Zheng Ren&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;E-mail:&lt;/strong&gt; renz4@myumanitoba.ca &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 204-509-1929&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I am an undergraduate student majoring in computer science at the University of Manitoba. I am down-to-earth, 
+meticulous, responsible, and good at listening and cooperation. I have a positive attitude towards academics and a 
+solid professional foundation. I am sincere and …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Zheng Ren&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;E-mail:&lt;/strong&gt; renz4@myumanitoba.ca &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 204-509-1929&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I am an undergraduate student majoring in computer science at the University of Manitoba. I am down-to-earth, 
+meticulous, responsible, and good at listening and cooperation. I have a positive attitude towards academics and a 
+solid professional foundation. I am sincere and friendly in life. I am willing to play a bridging role in the team 
+with a positive learning attitude and stable execution ability, and create value with my colleagues.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2021-2025 &lt;strong&gt;BSc. of Computer Science&lt;/strong&gt; at &lt;em&gt;University of Manitoba&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;Skill&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Programming Languages&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Java | C  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Language&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chinese&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Abilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hardworking&lt;/li&gt;
+&lt;li&gt;Obeying orders&lt;/li&gt;
+&lt;li&gt;Strong execution&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Resume"></category></entry></feed>
