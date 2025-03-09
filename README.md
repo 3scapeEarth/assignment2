@@ -59,6 +59,6 @@ Then you can see the contents of your resume folder in your repository. After do
 -  A: If you made changes in the original folder, you need to re-enter ```palican content``` to let Pelican process it, and then re-upload it to GitHub
 
 ## Contributors
-Zheng Ren
-instructor: Tristan Miller
-TA: Peter Vu
+Zheng Ren   
+instructor: Tristan Miller   
+TA: Peter Vu   
